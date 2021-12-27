@@ -112,6 +112,7 @@ h2 {
     color: white;
     border: none;
     font-size: 1.25rem;
+    height: 4.5rem;
     text-decoration: none;
     text-transform: uppercase;
     cursor: pointer;
@@ -119,6 +120,7 @@ h2 {
 
 .button-svg {
     background-color: rgba(213, 150, 108, 1);
+    height: 100%;
     padding: 1.6rem 1.25rem;
     overflow: hidden;
 }
