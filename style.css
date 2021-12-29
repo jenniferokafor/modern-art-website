@@ -281,7 +281,7 @@ footer {
 
 /* tablet view hero */
 
-@media only screen and (min-width: 374px) and (max-width: 768px) {
+@media only screen and (min-width: 375px) and (max-width: 768px) {
 
     html, body {
         height: 100%;
