@@ -796,6 +796,11 @@ a {
 
 @media only screen and (min-width: 376px) and (max-width: 768px) {
 
+#map {
+    width: 48rem;
+    height: 37.5rem;
+}
+
 .location-main {
     width: 48rem;
     height: 27.25rem;
@@ -821,6 +826,12 @@ a {
 
 /* mobile view for loaction.html */
 @media only screen and (max-width: 375px) {
+
+    #map {
+        width: 23.438rem;
+        height: 34.375rem;
+    }
+
     .location-main {
         width: 23.438rem;
         height: 30.813rem;
