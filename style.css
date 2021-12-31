@@ -722,6 +722,11 @@ a {
     text-decoration: none;
 }
 
+#map {
+    width: 90rem;
+    height: 37.5rem;
+}
+
 .location-main {
     width: 90rem;
     height: 34.25rem;
