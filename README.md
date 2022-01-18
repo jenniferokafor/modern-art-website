@@ -2,8 +2,8 @@
  ## Overview
  The Modern Art Website for an art gallery created with vanilla CSS and Leaflet.js to create the map on the location.html page. It is my solution to a Frontend Mentor challenge. 
 
- Link to live website - https://modern-art-gallery.netlify.app/
- Screenshot for a quick view - https://imgur.com/a/SMRcbjg
+ - Link to live website - https://modern-art-gallery.netlify.app/
+ - Screenshot for a quick view - https://imgur.com/a/SMRcbjg
 
  ## Built with:
  - Semantic HTML5 markup
