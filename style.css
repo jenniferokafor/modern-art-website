@@ -718,17 +718,19 @@ a {
     text-decoration: none;
 }
 
-.hero-button-1 {
-    background-color: rgba(21, 21, 21, 1);
-    position: fixed;
-    top: 0;
-    left: 0;
-}
-
 #map {
     width: 90rem;
     height: 37.5rem;
-    
+    position: relative;
+    z-index: 1;
+}
+
+.hero-button-1 {
+    background-color: rgba(21, 21, 21, 1);
+    position: absolute;
+    top: 0;
+    left: 5%;
+    z-index: 2;
 }
 
 .location-main {
