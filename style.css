@@ -714,17 +714,21 @@ footer {
 
 /* location.html page */
 
-.hero-button-1 {
-    background-color: rgba(21, 21, 21, 1);
-}
-
 a {
     text-decoration: none;
+}
+
+.hero-button-1 {
+    background-color: rgba(21, 21, 21, 1);
+    position: fixed;
+    top: 0;
+    left: 0;
 }
 
 #map {
     width: 90rem;
     height: 37.5rem;
+    
 }
 
 .location-main {

@@ -1,4 +1,4 @@
-var map = L.map('map').setView([41.4822184, -71.3103956], 15);
+var map = L.map('map').setView([41.4822184, -71.3103956], 20);
 
 // osm layer
 var osm = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
